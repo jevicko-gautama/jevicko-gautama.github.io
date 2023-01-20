@@ -1,29 +1,23 @@
-# jevicko-gautama.github.io
+
 Jevicko's resume
 An Electromechanical Engineer graduate from Cal Poly Pomona with hands-on experience in polymer manufacturing, metalworking, and automotive systems. A team player, detail-oriented, and a fast learner who is able to adapt quickly to new environments.
 
 
-Technical Skills
-Solidworks
-C
-V-Rep / Coppelia Sim
-ANSYS
-Matlab
-PSpice
-Machine Code
+**Technical Skills:**
 
-Education
-California State Polytechnic University Pomona, Pomona, CA
-Class of 2021
+* Solidworks
+* C
+* V-Rep / Coppelia Sim
+* ANSYS
+* Matlab
+* PSpice
+* Machine Code
 
-Bachelor of Science, Electromechanical Systems Engineering Technology
-
-Fullerton College, Fullerton, CA
-Class of 2017
-
-Associate Degree in Science & Mathematics
-
-Work Experiences
+**Education:**
+* California State Polytechnic University Pomona, Pomona, CA - Class of 2021
+-- Bachelor of Science, Electromechanical Systems Engineering Technology
+  
+**Work Experiences:**
 
 Production Associate | | Applied Manufacturing, LLC, Rancho Santa Margarita, CA
 July 2022 - Present
